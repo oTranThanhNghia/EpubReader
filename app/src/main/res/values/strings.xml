@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EpubReader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="table_of_contents">Table of Contents</string>
+</resources>
